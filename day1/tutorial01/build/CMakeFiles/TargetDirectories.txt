@@ -1,0 +1,4 @@
+/Users/daniel/Documents/github_project/json_learning/day1/tutorial01/build/CMakeFiles/leptjson.dir
+/Users/daniel/Documents/github_project/json_learning/day1/tutorial01/build/CMakeFiles/leptjson_test.dir
+/Users/daniel/Documents/github_project/json_learning/day1/tutorial01/build/CMakeFiles/edit_cache.dir
+/Users/daniel/Documents/github_project/json_learning/day1/tutorial01/build/CMakeFiles/rebuild_cache.dir
